@@ -1,0 +1,82 @@
+{
+  "source": "scripts/npc/neutral_items.txt",
+  "vpk": "game/dota/pak01_dir.vpk",
+  "client_version": "6967",
+  "version_date": "Oct 24 2026",
+  "tiers": {
+    "1": {
+      "start_time": 0,
+      "items": [
+        "ash_legion_shield",
+        "chipped_vest",
+        "dagger_of_ristul",
+        "dormant_curio",
+        "duelist_gloves",
+        "foragers_kit",
+        "kobold_cup",
+        "occult_bracelet",
+        "polliwog_charm",
+        "possessed_mask",
+        "stonefeather_satchel",
+        "weighted_dice"
+      ]
+    },
+    "2": {
+      "start_time": 900,
+      "items": [
+        "crippling_crossbow",
+        "defiant_shell",
+        "essence_ring",
+        "mana_draught",
+        "medallion_of_courage",
+        "pogo_stick",
+        "poor_mans_shield",
+        "searing_signet",
+        "seeds_of_serenity"
+      ]
+    },
+    "3": {
+      "start_time": 1500,
+      "items": [
+        "cloak_of_flames",
+        "gunpowder_gauntlets",
+        "jidi_pollen_bag",
+        "partisans_brand",
+        "psychic_headband",
+        "serrated_shiv",
+        "spellslinger",
+        "stormcrafter",
+        "unrelenting_eye"
+      ]
+    },
+    "4": {
+      "start_time": 2100,
+      "items": [
+        "conjurers_catalyst",
+        "dandelion_amulet",
+        "enchanters_bauble",
+        "flayers_bota",
+        "giant_maul",
+        "idol_of_screeauk",
+        "metamorphic_mandible",
+        "prophets_pendulum",
+        "rattlecage"
+      ]
+    },
+    "5": {
+      "start_time": 3600,
+      "items": [
+        "demonicon",
+        "desolator_2",
+        "dezun_bloodrite",
+        "divine_regalia",
+        "fallen_sky",
+        "harmonizer",
+        "heavy_blade",
+        "minotaur_horn",
+        "riftshadow_prism",
+        "spider_legs"
+      ]
+    }
+  }
+}
